@@ -1,6 +1,4 @@
-Here’s a cleaner, more professional `README.md` style description you can directly paste into [GitHub](https://github.com?utm_source=chatgpt.com) for your project.
 
----
 
 # Medical Insurance Charges Prediction
 
